@@ -24,7 +24,7 @@
         <dependency>
 	    <groupId>net.dv8tion</groupId>
 	    <artifactId>JDA</artifactId>
-	    <version>4.2.0_227</version>
+	    <version>5.0.2</version>
 	</dependency>
         <dependency>
             <groupId>com.jagrosh</groupId> 
@@ -35,7 +35,7 @@
         <dependency>
             <groupId>club.minnced</groupId>
             <artifactId>discord-webhooks</artifactId>
-            <version>0.3.0</version>
+            <version>0.8.3</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
